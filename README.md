@@ -1,5 +1,6 @@
-# Project conucted in ML/AL club, DeepDaiv
-# Sep, 2024 - Oct, 2024
+# Gesture Recognition Ordering System for Individuals with Visual and Hearing Impairments	
+* Project conducted in ML/AL club, DeepDaiv
+* Sep, 2024 - Oct, 2024
 
 
 Participants
